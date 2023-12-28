@@ -6,7 +6,6 @@ public class Ex09 {
 		
 		int no = 1;
 		
-
 		while(true) {
 			if(no%6==0 && no%14==0) {
 				System.out.println(no);
@@ -15,13 +14,6 @@ public class Ex09 {
 			no++;
 		}
 		
-		
-		
-		
-		
-		
-		
-
 	}
 
 }
